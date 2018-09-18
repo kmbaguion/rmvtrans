@@ -1,0 +1,32 @@
+@font-face {
+    font-family: RobotoLight;
+    src: url(../fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: RobotoMedium;
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: RobotoRegular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: MontserratRegular;
+    src: url(../fonts/Montserrat-Regular.otf);
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+h1{
+	font-family: RobotoMedium;
+}
+h2{
+	font-family: RobotoRegular;
+}
+h3{
+	font-family: RobotoLight;
+}
+p{
+	font-family: MontserratRegular;
+}
